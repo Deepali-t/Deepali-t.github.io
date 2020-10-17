@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e419dd710b77682555f37186ce427467",
+    "revision": "24080b1cc7d6ca8537a71f0bc71037fc",
     "url": "/Deepali-t/Deepali-t.github.io/index.html"
   },
   {
-    "revision": "8617c8a74122d88dd12b",
+    "revision": "6aee9898225e2ca109d1",
     "url": "/Deepali-t/Deepali-t.github.io/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Deepali-t/Deepali-t.github.io/static/js/2.6e838de3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8617c8a74122d88dd12b",
-    "url": "/Deepali-t/Deepali-t.github.io/static/js/main.508e5099.chunk.js"
+    "revision": "6aee9898225e2ca109d1",
+    "url": "/Deepali-t/Deepali-t.github.io/static/js/main.eadcbbe7.chunk.js"
   },
   {
     "revision": "f765c98a79c46020159d",

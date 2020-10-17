@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Deepali-t/Deepali-t.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Deepali-t/Deepali-t.github.io/static/js/main.508e5099.chunk.js",
-    "main.js.map": "/Deepali-t/Deepali-t.github.io/static/js/main.508e5099.chunk.js.map",
+    "main.js": "/Deepali-t/Deepali-t.github.io/static/js/main.eadcbbe7.chunk.js",
+    "main.js.map": "/Deepali-t/Deepali-t.github.io/static/js/main.eadcbbe7.chunk.js.map",
     "runtime-main.js": "/Deepali-t/Deepali-t.github.io/static/js/runtime-main.9e879241.js",
     "runtime-main.js.map": "/Deepali-t/Deepali-t.github.io/static/js/runtime-main.9e879241.js.map",
     "static/js/2.6e838de3.chunk.js": "/Deepali-t/Deepali-t.github.io/static/js/2.6e838de3.chunk.js",
     "static/js/2.6e838de3.chunk.js.map": "/Deepali-t/Deepali-t.github.io/static/js/2.6e838de3.chunk.js.map",
     "index.html": "/Deepali-t/Deepali-t.github.io/index.html",
-    "precache-manifest.1a67c54ff200837ae5d8f65e62ae3f2e.js": "/Deepali-t/Deepali-t.github.io/precache-manifest.1a67c54ff200837ae5d8f65e62ae3f2e.js",
+    "precache-manifest.bc0a5690aaec15a4feb3b5e801a3cff1.js": "/Deepali-t/Deepali-t.github.io/precache-manifest.bc0a5690aaec15a4feb3b5e801a3cff1.js",
     "service-worker.js": "/Deepali-t/Deepali-t.github.io/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/Deepali-t/Deepali-t.github.io/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.6e838de3.chunk.js.LICENSE.txt": "/Deepali-t/Deepali-t.github.io/static/js/2.6e838de3.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.9e879241.js",
     "static/js/2.6e838de3.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.508e5099.chunk.js"
+    "static/js/main.eadcbbe7.chunk.js"
   ]
 }

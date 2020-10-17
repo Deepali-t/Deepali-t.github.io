@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Deepali-t/Deepali-t.github.io/precache-manifest.1a67c54ff200837ae5d8f65e62ae3f2e.js"
+  "/Deepali-t/Deepali-t.github.io/precache-manifest.bc0a5690aaec15a4feb3b5e801a3cff1.js"
 );
 
 self.addEventListener('message', (event) => {
